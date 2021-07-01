@@ -1,0 +1,11 @@
+{
+    "measure" : "reward",
+    "thresholds" : [1.9, 1.9, 1.75, 1.7, 1.6, 1.55, 1.45],
+    "min_lesson_length" : 40,
+    "signal_smoothing" : true, 
+    "parameters" : 
+    {
+        "xcoordinate" : [3, 10, 40, 70, 95, 130, 160, 215],
+        "ycoordinate" : [ 0, 0, 0, 0, 2, 0, 4, 4]
+    }
+}
